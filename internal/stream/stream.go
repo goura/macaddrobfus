@@ -5,8 +5,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/rgoura/macaddrobfus/internal/macaddr"
-	"github.com/rgoura/macaddrobfus/internal/obfus"
+	"github.com/goura/macaddrobfus/internal/macaddr"
+	"github.com/goura/macaddrobfus/internal/obfus"
 )
 
 var MacAddrLength int = len("xx:xx:xx:xx:xx:xx")

@@ -1,3 +1,3 @@
-module github.com/rgoura/macaddrobfus
+module github.com/goura/macaddrobfus
 
 go 1.17

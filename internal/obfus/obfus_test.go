@@ -3,7 +3,7 @@ package obfus
 import (
 	"testing"
 
-	"github.com/rgoura/macaddrobfus/internal/macaddr"
+	"github.com/goura/macaddrobfus/internal/macaddr"
 )
 
 func TestObfuscateRuns(t *testing.T) {

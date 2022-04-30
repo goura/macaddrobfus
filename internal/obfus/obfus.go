@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/rgoura/macaddrobfus/internal/macaddr"
+	"github.com/goura/macaddrobfus/internal/macaddr"
 )
 
 type ObfusedMacAddr struct {

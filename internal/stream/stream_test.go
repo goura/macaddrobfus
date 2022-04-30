@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rgoura/macaddrobfus/internal/macaddr"
-	"github.com/rgoura/macaddrobfus/internal/obfus"
+	"github.com/goura/macaddrobfus/internal/macaddr"
+	"github.com/goura/macaddrobfus/internal/obfus"
 )
 
 func TestNoAddrPlainStrings(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/rgoura/macaddrobfus/internal/stream"
+	"github.com/goura/macaddrobfus/internal/stream"
 )
 
 func randomString() string {
